@@ -7,7 +7,7 @@ compatibility_flags = ["nodejs_compat"]
 [vars]
 
 # ws目录
-WS_PATH = "/"
+WS_PATH = ""
 
 # 转发，0为关闭，1为开启
 EASYTIER_DISABLE_RELAY = "0"
